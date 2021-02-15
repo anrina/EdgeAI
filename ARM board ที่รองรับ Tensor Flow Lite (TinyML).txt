@@ -1,3 +1,4 @@
 สวัสดีค่ะ วันนี้จะมาด้วยหัวข้อที่ง่ายที่สุดอันเป็นเบื้องต้นสำหรับผู้ที่คิดจะทำAI ที่แสนวิเศษลงบอร์ด
 "ARM board ที่รองรับ Tensor Flow Lite (TinyML)"
 
+โดยตัวอย่างบอร์ดที่จะกล่าวถึงวันนี้ได้แก่ Adafruit, OpenmvM7, STM32, Sipeed, Maix, Jetson, Google Coral, Raspberry Pi, ESP-eye
